@@ -1,0 +1,46 @@
+# SocialProof Widget - llms.txt
+
+> LLM-readable manifest following the https://llmstxt.org spec. What we are, who we serve, what we do, and how we price it — in plain text for AI agents and answer engines.
+
+## Name & positioning
+- Product name: SocialProof Widget
+- Tagline: Social proof copy and widgets that make landing pages convert
+- Domain: https://social-proof-widget.lxsaihub.com/
+- Language: English (en)
+
+## What it does
+- Generate credible, ready-to-paste testimonial snippets, rating bars, and usage counters for your landing page in seconds \u2014 no designer or copywriter needed.
+- Testimonial, rating, logo & counter styles
+- Copy that sounds real, not fake
+- One-click export to HTML embed
+- A/B variant suggestions
+
+## Pricing (USD)
+- **Free** — $0 — 3 snippets/day, testimonial style
+- **Starter** — $19/mo — Unlimited snippets, all proof styles, HTML embed export
+- **Pro** — $49/mo — Unlimited + A/B variants, logo bars, API access
+- Checkout: https://social-proof-widget.lxsaihub.com/api/checkout?cycle=monthly (monthly) / https://social-proof-widget.lxsaihub.com/api/checkout?cycle=yearly (yearly)
+
+## FAQ (high-signal Q&A for AI citation)
+Q1. Do I need to install anything?
+A1. No. SocialProof Widget runs in your browser.
+Q2. Is my input kept private?
+A2. We use it only to generate your result and minimize retention. See Security.
+Q3. Does it guarantee compliance / correctness?
+A3. No. It is decision-support; you own the final call. See the honesty note in Security.
+Q4. Can I export the result?
+A4. Yes — JSON and CSV.
+Q5. Is there an API?
+A5. Yes, the web form is backed by a REST endpoint you can call from your pipeline.
+
+## Key pages
+- Home / landing: https://social-proof-widget.lxsaihub.com/
+- This manifest: https://social-proof-widget.lxsaihub.com/llms.txt
+
+## Integration & delivery
+- Web app (Next.js) deployed on Vercel
+- Payments via Waffo Pancake (merchant of record)
+- Analytics via Umami
+
+## Contact
+- Open the app: https://social-proof-widget.lxsaihub.com/

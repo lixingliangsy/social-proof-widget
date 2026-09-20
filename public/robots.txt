@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# LLM / AI answer-engine indexing
+LLM-Content: https://social-proof-widget.lxsaihub.com/llms.txt
+
+Sitemap: https://social-proof-widget.lxsaihub.com/sitemap.xml
